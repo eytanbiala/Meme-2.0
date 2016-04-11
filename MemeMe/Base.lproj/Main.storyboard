@@ -48,7 +48,7 @@
                     </tableView>
                     <tabBarItem key="tabBarItem" title="" image="table" id="86u-Vv-Xil"/>
                     <navigationItem key="navigationItem" title="Sent Memes" id="orb-2V-FUH">
-                        <barButtonItem key="leftBarButtonItem" style="plain" systemItem="edit" id="AQn-Ib-byQ"/>
+                        <barButtonItem key="leftBarButtonItem" systemItem="edit" id="AQn-Ib-byQ"/>
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="oem-Kx-D6l">
                             <connections>
                                 <segue destination="Zft-DB-5Yi" kind="presentation" id="qav-z2-rST"/>
