@@ -1,11 +1,3 @@
-//
-//  MemeViewerController.swift
-//  MemeMe
-//
-//  Created by Eytan Biala on 4/11/16.
-//  Copyright © 2016 Udacity. All rights reserved.
-//
-
 import Foundation
 import UIKit
 

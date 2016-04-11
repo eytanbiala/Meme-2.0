@@ -1,11 +1,3 @@
-//
-//  Meme.swift
-//  MemeMe
-//
-//  Created by Eytan Biala on 9/29/15.
-//  Copyright © 2015 Udacity. All rights reserved.
-//
-
 import Foundation
 import UIKit
 

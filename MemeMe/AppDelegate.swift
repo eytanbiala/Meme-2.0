@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  MemeMe
-//
-//  Created by Eytan Biala on 9/28/15.
-//  Copyright © 2015 Udacity. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
